@@ -1,0 +1,12 @@
+{
+  "tests": [
+    {
+      "name": "Verificar uso de eventos",
+      "setup": "npm init -y",
+      "run": "node tests/test.js",
+      "input": "",
+      "output": "✅",
+      "comparison": "included"
+    }
+  ]
+}
